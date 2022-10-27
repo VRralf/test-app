@@ -58,12 +58,6 @@ form{
     cursor: pointer;
 }
 
-.text-wrapper label:hover{
-    cursor: nwse-resize;
-
-
-}
-
 .text-wrapper input:checked + label{
     color: white;
     padding: 0.5rem 2rem;
